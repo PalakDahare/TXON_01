@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>Welcome to ShopCart!!</title>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <img src="https://image.similarpng.com/very-thumbnail/2020/12/Shopping-cart-with-gift-boxes-and-shopping-bags-from-online-shop-for-e-commerce-marketing-on-transparent-PNG.png" class="logo">
+            <h2 class="brandname"><em>ShopCart</em></h2>
+            <nav>
+                <ul>
+                    <li>Shop for Women</li>
+                    <li>Shop for Men</li>
+                    <li>Shop for Children</li>
+                  
+                </ul>
+            </nav>
+            <button class="btn" id="btn1">Log In</button>
+            <button class="btn" id="btn2">Sign Up</button>
+        </div>
+        <div class="content">
+            <div class="text">
+            <h1>Shop At The New Emerging Online Shopping Website.</span></h1>
+            <p>Get <em>Exclusive Discounts</em> on <em>Premium Brands</em>
+            Give your wardrobe a Complete Makeover <strong>NOW!!</strong></p>
+            <button class="btn3">Shop Now!!</button>
+            <section>
+            <h3><p>Our brands</p></h3>
+         <h4> <br>Adidas
+                <br>Reebok
+                <br>Nike
+                <br>Zara
+                <br>H&M
+                <br>Polo
+                <br>Puma
+                <br>Fila
+                <br>And Many More
+           </div></section>
+        <div class="Brands">
+        <img src="https://i.pinimg.com/736x/44/d4/1d/44d41d4dcab6fe3cd583d0c2293cf5ed.jpg" alt="">
+        </div>
+       </div>
+   </div>
+   <div class="center-text">
+    <p id="copyright">
+Contact us XXXXX34X.
+        Copyright www.ShopCart.com 
+        </p>
+        </div>
+</body>
+</html>
+ 
